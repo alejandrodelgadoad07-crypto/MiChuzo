@@ -215,6 +215,7 @@ HTML = """
 <html lang="es">
 
 <head>
+    <meta name="google-site-verification" content="oGKpMoCik9yYiZ25q82h73aHxiKs-fxzFE3XTGW2hQ0" />
 
 <meta charset="UTF-8">
 
